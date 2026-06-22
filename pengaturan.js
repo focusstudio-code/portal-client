@@ -8,5 +8,5 @@ const CONFIG_APP = {
     namaVendor: "Focus Studio",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo"
+    googleApiKey: "AIzaSyC7ZvTAmWUBXs3WmqSOiAn2or8Nl7-EdMo"
 };
